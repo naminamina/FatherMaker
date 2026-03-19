@@ -20,5 +20,4 @@ Father Maker は、性格診断から父アバターを生成し、その父がW
 ## 技術
 React
 
-## デモ
-https://fathermaker.onrender.com/
+
