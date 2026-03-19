@@ -9,7 +9,7 @@ interface ItemPanelProps {
   onBack: () => void;
 }
 
-const AVAILABLE_ITEMS = ["缶コーヒー", "甘いもの", "休み時間", "おつかれさま", "小さな趣味の時間"];
+const AVAILABLE_ITEMS = ["缶コーヒー",  "休み時間","野球"];
 
 export const ItemPanel: React.FC<ItemPanelProps> = ({
   profile,
